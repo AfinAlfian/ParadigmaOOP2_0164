@@ -22,6 +22,6 @@ public:
 
 int main()
 {
-    std::cout << "Hello World!\n";
+    derivedClass a;
 }
 
