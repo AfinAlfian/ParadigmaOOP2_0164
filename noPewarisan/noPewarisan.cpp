@@ -16,5 +16,5 @@ class derivedClass : public baseClass {
 
 int main()
 {
-    std::cout << "Hello World!\n";
+    derivedClass a;
 }
