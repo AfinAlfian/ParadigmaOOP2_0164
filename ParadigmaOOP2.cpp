@@ -40,4 +40,6 @@ int main()
 
     //akses method pesan() dari class seseorang
     //a.seseorang::pesan();
+
+    return 0;
 }
